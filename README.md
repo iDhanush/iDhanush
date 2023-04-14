@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhanush
 - 👀 Python Develpoper
-- 🌱 Specialises in Web scraping
+- 🌱 Web scraping
 
 
 <!---
