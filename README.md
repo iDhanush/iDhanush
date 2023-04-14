@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhanush
-- 👀 Python Semi pro
-- 🌱 I’m currently learning Web dev
+- 👀 Python Develpoper
+- 🌱 Specialises in Web scraping
 
 
 <!---
