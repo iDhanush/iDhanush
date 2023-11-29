@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Dhanush
-- 🥴 Ya, My contributions are mostly private 
 - 👀 Python Develpoper
 - 🌱 Web scraping
 
