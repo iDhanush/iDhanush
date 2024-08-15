@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
-<h3 align="left">👀 Python Develpoper <br>🧠 Artificail Intelligence <br>🦾 iot Enthusiast <br>🤖 Automated Bots <br>🌐 Web Developer <br>🌱 Web Scraping</h3>
+<h3 align="left"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idhanush&label=Profile%20views&color=0e75b6&style=flat" alt="idhanush" /> </p>
 
-- 🔭 I’m currently working on [Dasdas](https://google.com)
+- 👀 Python Develpoper
+- 🧠 Artificail Intelligence
+- 🦾 iot Enthusiast
+- 🤖 Automated Bots
+- 🌐 Web Developer
+- 🌱 Web Scraping
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
