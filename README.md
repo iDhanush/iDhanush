@@ -1,6 +1,10 @@
 - 👋 Hi, I’m Dhanush
 - 👀 Python Develpoper
-- 🌱 Web scraping
+- 🧠 Artificail Intelligence
+- 🦾 iot Enthusiast
+- 🤖 Automated Bots
+- 🌐 Web Developer
+- 🌱 Web Scraping
 
 
 <!---
