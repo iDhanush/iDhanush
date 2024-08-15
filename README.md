@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I Dhanush</h1>
-<h3 align="center">👀 Python Develpoper <br>🧠 Artificail Intelligence <br>🦾 iot Enthusiast <br>🤖 Automated Bots <br>🌐 Web Developer <br>🌱 Web Scraping</h3>
+<h3 align="left">👀 Python Develpoper <br>🧠 Artificail Intelligence <br>🦾 iot Enthusiast <br>🤖 Automated Bots <br>🌐 Web Developer <br>🌱 Web Scraping</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idhanush&label=Profile%20views&color=0e75b6&style=flat" alt="idhanush" /> </p>
 
