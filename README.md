@@ -1,7 +1,9 @@
-**<h1 align="center">Hi 👋, I Dhanush</h1>
+<h1 align="center">Hi 👋, I Dhanush</h1>
 <h3 align="center">👀 Python Develpoper 🧠 Artificail Intelligence 🦾 iot Enthusiast 🤖 Automated Bots 🌐 Web Developer 🌱 Web Scraping</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idhanush&label=Profile%20views&color=0e75b6&style=flat" alt="idhanush" /> </p>
+
+- 🔭 I’m currently working on [Dasdas](https://google.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +18,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/idhanush"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="idhanush" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idhanush&show_icons=true&locale=en" alt="idhanush" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idhanush&" alt="idhanush" /></p>
-**
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=idhanush&show_icons=true&locale=en&layout=compact" alt="idhanush" /></p>
